@@ -6,11 +6,10 @@ Features
 
 Thiết kế mạng neural nhân tạo nhận diện hai mẫu
 ------------
-<p>
 <img align="left" width="256" height="256" src="./figs/v_character.png">
 
 <img align="right" width="256" height="256" src="./figs/o_character.png">
-</p>
+
 Installation/ Running
 ------------
 
