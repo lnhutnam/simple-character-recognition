@@ -4,12 +4,13 @@ Features
 --------
 Thiết kế mạng neural nhân tạo nhận diện hai mẫu
 
+
 <img align="left" width="256" height="256" src="./figs/v_character.png">
 
-<img align="left" width="256" height="256" src="./figs/o_character.png">
+<img width="256" height="256" src="./figs/o_character.png">
 
 
-Installation/ Running
+Installation
 ------------
 
 For quickly just open the notbook.ipynb and look at the result
