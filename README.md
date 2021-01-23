@@ -1,10 +1,10 @@
-# simple-character-recognition
 Một cái mạng đơn giản nhận dạng hai chữ cái, hai chữ cái biểu diễn bằng hai ma trận 3x3. Đây là cái bài trong đề thi Cơ sở trí tuệ nhân tạo, mình code thử
 
 Features
 --------
 
 Thiết kế mạng neural nhân tạo nhận diện hai mẫu
+
 <img align="left" width="256" height="256" src="./figs/v_character.png">
 ---
 <img align="left" width="256" height="256" src="./figs/o_character.png">
